@@ -299,8 +299,9 @@
             },
             "huawei":{
                 "hisilicon":{
-                    "vendor_id":["12d1"],
-                    "product_id":["15c3"]
+                    "vendor_id":["12d1","3466"],
+                     "product_id":["15c3","3301"]
+                 }
                 }
             }
         }
